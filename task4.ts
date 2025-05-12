@@ -1,4 +1,3 @@
-
 type TCar ={
   make: string;
   model: string;
